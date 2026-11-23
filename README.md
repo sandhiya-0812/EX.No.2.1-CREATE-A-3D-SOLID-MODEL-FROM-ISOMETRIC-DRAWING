@@ -1,20 +1,29 @@
 # EX.No.2.1  CREATE A 3D SOLID MODEL FROM ISOMETRIC DRAWING
-## Date:
+## Date:12.10.2026
+## Name:SANDHIYA G
+## Reg.No.:26009640
 
 ## AIM
-To create a 3Dmodel from the given isometric drawing using fusion 360 tool. 
+To create a 3D solid model from the given isometric drawing using Computer-Aided Design (CAD) software.
 
 ## REQUIREMENTS
-1. Autodesk fusion 360
-2. Windows 10
-3. 16 GB of RAM (integrated graphics recommend 1 GB or more)
-4. 2.5 Mbps or faster download; 500 Kbps or faster upload 
+Hardware Requirements : 
+ * Processor: Intel Core i5 / i7 (or AMD Ryzen equivalent) processor or higher.
+ * RAM: Minimum 8 GB (16 GB recommended).
+ * Display: Full HD display (1920 x 1080) with true color.
+ * Graphics Card: Dedicated GPU (NVIDIA/AMD) with 2 GB VRAM or higher supporting OpenGL.
+ * Storage: At least 10 GB of free disk space.
+
+Software Requirements : 
+ * Operating System: Windows 10 / 11 (64-bit).
+ * CAD Application: Autodesk AutoCAD, SolidWorks, or Autodesk Fusion 360.
+
 
 ## PROCEDURE
 
  ### STEP-1:  Start the sketch command
 
-   Select Sketch > Create Sketch.
+  Select Sketch > Create Sketch.
 
  ### STEP-2:  Select the Sketch Plane
 
