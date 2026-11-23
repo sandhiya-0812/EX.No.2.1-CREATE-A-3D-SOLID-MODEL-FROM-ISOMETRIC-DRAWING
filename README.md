@@ -21,60 +21,57 @@ Software Requirements :
 
 ## PROCEDURE
 
- ### STEP-1:  Start the sketch command
+Okay, I'll make some changes in the wording and sentence structure while keeping the same steps and dimensions, so it looks like a fresh procedure for your lab record.
 
-  Select Sketch > Create Sketch.
+## **PROCEDURE**
 
- ### STEP-2:  Select the Sketch Plane
+**STEP-1: Open the Sketch Workspace**\
+Click on the **Sketch** menu and select **Create Sketch** to begin the design.
 
-   Select the Front (XZ) Plane
+**STEP-2: Choose the Plane**\
+Select the **Front (XZ) Plane** to draw the initial sketch.
 
-### STEP-3: Create a Rectangle 
+**STEP-3: Draw the Rectangle**
 
-   1.	Select Sketch > Rectangle > Center Rectangle.
-   2.	Now hover over the origin (center) of the sketch. You should see the cursor snap to this location.
-   3.	Click once to begin placing the rectangle.
-   4.	Type the Tab button and enter the values 100 mm and 60mm for the width and height respectively.
-   5.	Click again to place the rectangle.
-   6.	Click Finish Sketch after completing.
+1. Choose **Sketch → Rectangle → Center Rectangle**.
+2. Move the cursor to the origin and click when it snaps to the center point.
+3. Drag to create the rectangle.
+4. Press **Tab** and specify the width as **100 mm** and height as **60 mm**.
+5. Confirm the dimensions and complete the rectangle.
+6. Click **Finish Sketch**.
 
- ### STEP-4: Extrude Rectangle in XZ Plane
-   1.	Select Extrude.
-   2.	Select the Rectangle sketch.
-   3.	Click again to place the value.
-   4.	Type in the value of 30mm. 
-   5.	Press ENTER to accept the value.
+**STEP-4: Create the Base Block**\
+Use the **Extrude** tool to select the rectangular profile. Set the extrusion distance to **30 mm** and press Enter to generate the solid block.
 
- ### STEP-5:  Start the sketch command
-   Select Sketch > Create Sketch.
- ### STEP-6: Select the Sketch Plane
-   Select the FRON SURFACE of rectangular block 
- ### STEP-7: Create a CIRCLE 
-   1.	Select Sketch >CIRCLE  > CENTER CIRCLE.
-   2.	Now hover over the origin (center) of the sketch. You should see the cursor snap to this location.
-   3.	Click once to begin placing the CIRCLE.
-   4.	Type the Tab button and enter the value DIA 100mm .
-   5.	Click again to place the circle.
-   6.	Click Finish Sketch after completing.
+**STEP-5: Create Another Sketch**\
+Select **Sketch → Create Sketch** to begin drawing on the existing model.
 
- ### STEP-8:  Extrude CIRCLE 
-   1.	Select Extrude.
-   2.	Select the Rectangle sketch.
-   3.	Click again to place the value.
-   4.	Type in the value of 20mm. 
-   5.	Press ENTER to accept the value.
+**STEP-6: Select the Surface**\
+Choose the **front face of the rectangular block** as the working plane.
 
- ### STEP-9: Start the sketch command
-   Select Sketch > Create Sketch.
-   
- ### STEP-10: Select the Sketch Plane
-   Select the TOP SURFACE OF RECTANGLE.
-   
- ### STEP-11: Create a line
-	1.Select Line command.
-	2. Draw the projections in the diagram 
-	3. Click Finish Sketch.
-	4. extrude the sketch.
+**STEP-7: Draw the Circle**
+
+1. Select **Sketch → Circle → Center Circle**.
+2. Place the cursor at the sketch origin and click to set the center.
+3. Press Tab and enter the circle diameter as **100 mm**.
+4. Confirm the size and position of the circle.
+5. Click **Finish Sketch**.
+
+**STEP-8: Extrude the Circular Profile**\
+Select the circular sketch and activate the **Extrude** tool. Set the extrusion distance to **20 mm** and press Enter to complete the feature.
+
+**STEP-9: Open a New Sketch**\
+Again, select **Sketch → Create Sketch** to continue the model.
+
+**STEP-10: Select the Top Face**\
+Choose the top surface of the rectangular block as the sketch plane.
+
+**STEP-11: Draw and Extrude the Required Lines**
+
+1. Select the **Line** tool from the sketch toolbar.
+2. Draw the required line segments according to the given diagram.
+3. Click **Finish Sketch** to close the sketch.
+4. Apply the **Extrude** command to the drawn profile and enter the required depth to complete the model.
 
 ## INPUT
 ![image](https://user-images.githubusercontent.com/113594316/198495472-9a69edb1-f0c6-470c-b9ae-fe282fa6a678.png)
